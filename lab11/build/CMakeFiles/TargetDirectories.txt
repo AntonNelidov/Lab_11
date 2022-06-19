@@ -1,3 +1,0 @@
-C:/Users/Asus/GIT/Lab11/lab11/build/CMakeFiles/lab11.dir
-C:/Users/Asus/GIT/Lab11/lab11/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/Asus/GIT/Lab11/lab11/build/CMakeFiles/ZERO_CHECK.dir
